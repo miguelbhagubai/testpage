@@ -9,7 +9,7 @@
 - text: Register
   href: true
 - text: Terms and Conditions
-  href: /termsandconditions/
+  href: true
 - text: Blog
   href: /blog/
 - text: Documentation
