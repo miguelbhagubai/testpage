@@ -1,6 +1,6 @@
 ---
 title: Terms and Conditions
-description: Terms and conditions on data usage and sharing.
+description: Rules, regulations and data use agreement
 permalink: /termsandconditions/
 ---
 

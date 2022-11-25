@@ -4,11 +4,13 @@
   href: /
 - text: About
   href: /about/ # Hardcoded URL
+- text: Tasks
+  href: true
 # - text: Team
 #   href: true # Automatically add URL of (first) page called "Team"
-- text: Register
-  href: true
 - text: Terms and Conditions
+  href: true
+- text: Register
   href: true
 # - text: Blog
 #   href: /blog/
