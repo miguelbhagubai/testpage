@@ -6,6 +6,8 @@
   href: /about/ # Hardcoded URL
 - text: Tasks
   href: true
+- text: Dataset
+  href: true
 # - text: Team
 #   href: true # Automatically add URL of (first) page called "Team"
 - text: Terms and Conditions
