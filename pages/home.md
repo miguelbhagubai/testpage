@@ -14,4 +14,4 @@ In patients with epilepsy, lifelong treatment with antiseizure medications may b
 In this challenge the contestants will be asked to train Machine Learning (ML) models to accurately detect seizure events in data obtained from the SD wearable device.
 
 
-![alt text](https://images.unsplash.com/photo-1486825586573-7131f7991bdd?w=1000&h=200&fit=crop)
+![alt text](/assets/theme/images/partners.png)
