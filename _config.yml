@@ -2,7 +2,7 @@
 title: Seizure Detection Challenge                        # Title in top navigation bar (navbar) and <head>
 description: ICASSP 2023 Grand-challenge # Site description in <head>
 author: Miguel Bhagubai                    # Used for copyright statement in footer
-baseurl: "/test_web"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+baseurl: "/testpage"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
 
