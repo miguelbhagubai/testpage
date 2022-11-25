@@ -22,7 +22,4 @@ In this challenge the contestants will be asked to train Machine Learning (ML) m
 \
 \
 \
-![my photo]({{ site.url }}/assets/theme/images/partners.png)
-
-
 ![Partners]({{ '/assets/theme/images/partners.png' | relative_url }})
