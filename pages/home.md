@@ -17,4 +17,4 @@ In this challenge the contestants will be asked to train Machine Learning (ML) m
 
 [{% raw %}`[link text]({{ '/assets/images/partners.jpg' | relative_url }})`{% endraw %}]({{ '/assets/theme/images/partners.jpg' | relative_url }}) -->
 
-![alt text]({{ '/assets/images/partners.jpg' | relative_url }})
+![alt text]({{ '/assets/theme/images/partners.jpg' | relative_url }})
