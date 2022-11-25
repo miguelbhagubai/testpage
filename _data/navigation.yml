@@ -8,6 +8,8 @@
   href: true # Automatically add URL of (first) page called "Team"
 - text: Register
   href: true
+- text: Terms and Conditions
+  href: /termsandconditions/
 - text: Blog
   href: /blog/
 - text: Documentation
