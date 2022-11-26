@@ -17,7 +17,7 @@ Seizures are annotated by the clinicians based on the gold standard vEEG system.
 In total 82 patients were recorded between 23/01/2017 and 26/10/2018. From those patients, 54 were recorded with the behind-the-ear channels. Forty-two of those patients had seizures during their presurgical evaluation, while for twelve patients no seizure has been recorded. The number of seizures per patient ranged from 1 to 22, with a median of 3 seizures per patient. The duration of the seizures, the time difference of seizure EEG onset and end, varied between 11 and 695 seconds with a median of 50 seconds. 89% of the seizures were Focal Impaired Awareness seizures. 91% of the seizures originated from the (fronto-) temporal lobe. For more information concerning the dataset see [2]. The dataset available for participants will contain the data of the 42 patients who had epileptic events during the recording period.
 
 
-### Data format:
+#### Data format:
 
 The raw data is in the form of **.edf** (European Data Format). The annotations are provided in **.tsv** (tab separated values) files. For every seizure, the first column represents the starting point (in seconds) of the seizure, the second one the end point of the seizure, the third one the type of the seizure, while in the last column extra information are provided. The extra information includes the origin of the seizure, the hemisphere and if the seizure can be noted from the behind the ear channels (bhe:1 in that case).  In the header section of every file information concerning the dataset and the annotations used are included.
 
@@ -32,6 +32,6 @@ Patients underwent video-EEG monitoring using the standardized 25-electrode arra
 
 In the context of this challenge the data for the in-hospital recordings of the patients in UZ Leuven will be used for the test set, but also for validation set. The SD recordings from 2 patients  will be provided to the participants in order to validate the performance of their models. All the models will be tested in the remaining 31 adult patients from UZ Leuven with focal seizures, by the organizers. 
 
-### Data format:
+#### Data format:
 
 Similar to the SeizeIT1 dataset, the raw EEG and ECG data is in the form of **.edf**. The annotations for the validation set are also provided in **.tsv** files, where the first column represents the start of the seizure and the second the end (in seconds). For this dataset, only the annotations provided by the neurologist are present (_a1_).
