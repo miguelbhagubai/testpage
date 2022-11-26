@@ -1,6 +1,6 @@
 ---
-title: Rules
-permalink: /rules/
+title: Regulations
+permalink: /regulations/
 ---
 
 
