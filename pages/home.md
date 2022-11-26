@@ -19,6 +19,7 @@ Within the scope of the challenge, participants will be presented with two **tas
 More information about the [tasks]({{ '/tasks/' | relative_url }}), [datasets]({{ '/dataset/' | relative_url }}) and [regulations]({{ '/regulations/' | relative_url }}) can be found in this website.
 
 \
+![Scheme]({{ '/assets/theme/images/scheme.png' | relative_url }})
 \
 \
 \

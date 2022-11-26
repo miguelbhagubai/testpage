@@ -6,10 +6,17 @@ permalink: /regulations/
 
 ### **<span style="color:#2B547E">Rules</span>**
 \
-The participation of groups is encouraged. Each group/participant can submit only a single model for each task, either as an individual or as a team. It is not possible to submit both individually and as a team.
+Participants are subject to the following rules:
 
-The data can only be used in the context of the ICASP 2022 Grand Challenge. For any other use of the data the participants must contact Prof. Wim Van Paesschen (wim.vanpaesschen@uzleuven.be). For previous publications using the same dataset please look at [2, 9-13] 
-The organizers, based on the amount and quality of submissions, will explore the possibility of hosting an article collection (Research Topic) on a related journal.
+- Participants must register via the [registration form]({{ '/register/' | relative_url }}). After the registration, the participants will receive instructions and will be granted access to the dataset and code when released and instructions on how to upload their submissions.
+
+- The participation of groups is encouraged. Each group/participant can submit only once, either as an individual or as a team. It is not possible to submit both individually and as a team.
+
+- The data can only be used in the context of the ICASP 2023 Grand Challenge. For any other use of the data the participants must contact Prof. Wim Van Paesschen (wim.vanpaesschen@uzleuven.be).
+
+- The participants ranking in the top 5 upon centralising results for all submissions will be invited to to submit a 2-page paper and present it at ICASSP 2023 (more information [here](https://2023.ieeeicassp.org/call-for-sp-grand-challenges/)).
+
+- The organizers, based on the amount and quality of submissions, will explore the possibility of hosting an article collection (Research Topic) on a related journal.
 
 &nbsp;  
 
