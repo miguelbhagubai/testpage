@@ -10,7 +10,7 @@ The participation of groups is encouraged. Each group/participant can submit onl
 The data can only be used in the context of the ICASP 2022 Grand Challenge. For any other use of the data the participants must contact Prof. Wim Van Paesschen (wim.vanpaesschen@uzleuven.be). For previous publications using the same dataset please look at [2, 9-13] 
 The organizers, based on the amount and quality of submissions, will explore the possibility of hosting an article collection (Research Topic) on a related journal.
 
-
+&nbsp;  
 
 ### **<span style="color:#2B547E">Evaluation Criteria</span>**
 \
