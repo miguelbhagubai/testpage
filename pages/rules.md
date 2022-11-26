@@ -1,7 +1,8 @@
 ---
-title: Rules and Evaluation Criteria
+title: Rules
 permalink: /rules/
 ---
+
 
 ### **<span style="color:#2B547E">Rules</span>**
 \

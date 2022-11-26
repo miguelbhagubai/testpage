@@ -7,8 +7,8 @@
 - text: Dataset
   href: true
 - text: Rules
-  href: /rules/
+  href: true
 - text: Team
-  href: true # Automatically add URL of (first) page called "Team"
+  href: true
 - text: Register
   href: true
