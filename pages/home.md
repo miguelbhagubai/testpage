@@ -16,6 +16,7 @@ In patients with **epilepsy**, lifelong treatment with antiseizure medications m
 
 Within the scope of the challenge, participants will be presented with two **tasks** focused on training ML models to accurately detect seizure events in data obtained from the SD wearable device.
 
+More information about the [tasks]({{ '/tasks/' | relative_url }}), [datasets]({{ '/dataset/' | relative_url }}) and [regulations]({{ '/regulations/' | relative_url }}) can be found in this website.
 
 \
 \
