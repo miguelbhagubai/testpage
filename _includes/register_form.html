@@ -30,11 +30,32 @@
         <input type="text" name="name" class="form-control" id="InputName" placeholder="Enter your name" required="required">
     </div>
     <br>
+    <div class="form-group">
+        <label for="TeamName" required="required"> Name</label>
+        <input type="text" name="team" class="form-control" id="TeamName" placeholder="Enter your team name" required="required">
+    </div>
+    <br>
+    <div class="form-group">
+        <label for="UniName" required="required"> Name</label>
+        <input type="text" name="uni" class="form-control" id="UniName" placeholder="Organization/University" required="required">
+    </div>
+    <br>
+    <div class="form-group">
+        <label for="Country" required="required"> Name</label>
+        <input type="text" name="country" class="form-control" id="Country" placeholder="Country of work" required="required">
+    </div>
+    <br>
     <hr>
     <div class="form-group">
-        <label for="TermsAndCond" required="required"> I accept the <a href="https://miguelbhagubai.github.io/testpage/termsandconditions/">terms and conditions</a></label>
+        <label for="TermsAndCond" required="required"> I understand my email address will be used for communication purposes by the organizing committee and that it will not be used for any other purposes.</a></label>
         <input type="checkbox" name="termsandcond" id="TermsAndCond" required="required">
     </div>
     <hr>
+    <div class="form-group">
+        <label for="dataagr" required="required"> I understand that I will only use the datasets for this challenge and will not share it or use it for other purposes.</a></label>
+        <input type="checkbox" name="data" id="dataagr" required="required">
+    </div>
+    <hr>
     <button type="submit" class="btn btn-primary">Submit</button>
+    <input type="hidden" name="_gotcha" style="display:none !important">
   </form>

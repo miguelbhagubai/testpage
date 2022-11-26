@@ -4,11 +4,12 @@
   role: Professor
   image: assets/theme/images/maarten.png
   description: >
-    Department of Electrical Engineering, STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics, KU Leuven, Leuven, Belgium; Department of Development and Regeneration, KU Leuven, Leuven, Belgium
+    Department of Electrical Engineering, STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics, KU Leuven, Leuven, Belgium; 
+    Department of Development and Regeneration, KU Leuven, Leuven, Belgium
   email: maarten.devos@kuleuven.be
 
 - name: Christos Chazachristos
-  role: Postdoctoral research
+  role: Postdoctoral researcher
   image: assets/theme/images/christos.png
   description: >
     Department of Electrical Engineering, STADIUS Center for Dynamical Systems, Signal Processing and Data Analytics, KU Leuven, Leuven, Belgium
