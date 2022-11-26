@@ -1,5 +1,5 @@
 ---
-title: Rules and Evaluation
+title: Rules
 permalink: /rules/
 ---
 
